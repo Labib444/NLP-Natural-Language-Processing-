@@ -1,0 +1,1 @@
+Please download the glove 100 dimension for English from the internet. I downloaded from this link https://www.kaggle.com/rtatman/glove-global-vectors-for-word-representation.
